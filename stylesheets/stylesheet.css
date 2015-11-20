@@ -321,7 +321,7 @@ footer {
 
 log {
 position: fixed;
-margin-top: 100%;
+bottom: 0; center: 0;
 }
 
 footer a {

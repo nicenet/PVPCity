@@ -319,6 +319,11 @@ footer {
   background: transparent url('../images/hr.png') 0 0 no-repeat;
 }
 
+log {
+  padding-top: 100%;
+  margin-top: 100%;
+}
+
 footer a {
   color: #666;
 }

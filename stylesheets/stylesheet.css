@@ -319,8 +319,7 @@ footer {
 }
 
 log {
-position: fixed;
-bottom: 0; center: 0;
+display:none;
 }
 
 footer a {

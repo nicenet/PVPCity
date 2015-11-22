@@ -331,7 +331,8 @@ footer a:hover {
   color: #444;
 }
 
-html {max-height:9999px;
+html {
+max-height:9999px;
 }
 /* MISC */
 .clearfix:after {

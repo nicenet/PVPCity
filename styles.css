@@ -188,7 +188,8 @@ padding: 0px 0px 0px 0px;
 font-weight:bold;
 background: url(images/fish_left.png) 14px 11px no-repeat;
 padding: 5px  0px 5px 50px;
-text-decoration:none;}	
+text-decoration:none;
+font-size: 14px;}	
 
 .munth a{color:#014377;
 text-decoration: underline;

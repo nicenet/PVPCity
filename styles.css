@@ -149,7 +149,7 @@ line-height: 25px;}
 	font-family: Arial, Helvetica, sans-serif;
 	font-size:18px;
 	font-weight: 100;
-	color: #ffffff;
+	color: #DCEEFC;
 	text-align:left;
 	padding: 14px 0px 0px 136px;
 	height:30px;
@@ -181,7 +181,7 @@ margin-right: 10px;
 padding: 0px 0px 0px 0px;
 }
 
-.right_b { background: #DCEEFC; font-size: 14px;}
+.right_b { background: #DCEEFC;}
 .right_w { background: #DCEEFC;}
 
 .munth {

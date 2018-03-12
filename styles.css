@@ -111,7 +111,7 @@ background: url(images/main_bot.gif) left bottom no-repeat ;
 
 
 .text{
-	padding: 6px 4px 0px 7px;
+	padding: 6px 4px 0px 7px; font-size:14px;
 }
 
 .img {	float:left;

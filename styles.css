@@ -13,8 +13,7 @@ border: 0px;
 body{
 	font: 12px Arial, Helvetica, sans-serif;
 	color: #000000;
-	background: url(images/bg1.jpg) top repeat-x #dceefc;
-	background-image: url(images/cobblestone.png) repeat-x repeat-y;
+	background: url(images/bg1.jpg) top repeat-x url(images/cobblestone.png);
 	line-height: 18px;
 }
 

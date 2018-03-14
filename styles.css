@@ -14,7 +14,7 @@ body{
 	font: 12px Arial, Helvetica, sans-serif;
 	color: #000000;
 	background: url(images/bg1.jpg) top repeat-x #dceefc;
-	background-image: url(images/cobblestone.png) repeat;
+	background-image: url(images/cobblestone.png) repeat-x repeat-y;
 	line-height: 18px;
 }
 
